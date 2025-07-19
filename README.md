@@ -13,12 +13,13 @@
     alt="Typing SVG" 
     style="max-width: 100%;" 
   />
-<br><br>
-</p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
-
-
-<p align="left">
+<br>
+<div align="center">
+  <picture>
+    <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px">
+  </picture>
+</div>
+<br>
   
 - 🌱 I’m currently learning **Flutter, React, Firebase, Node.js, and Networking Concepts**.
 - 📫 How to reach me **thanukasachith1@gmail.com**
