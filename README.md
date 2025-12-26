@@ -24,7 +24,6 @@
 <br>
 <p>
   
-- 🌱 I’m currently learning **Flutter, React, Firebase, Node.js, and Networking Concepts**.
 - 📫 How to reach me **thanukasachith1@gmail.com**
 </p>
 
